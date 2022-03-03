@@ -1,6 +1,6 @@
-# NFT-Starter-Frontend
+# NFT-Starter-Backend
 
-This only includes frontend files. Here is the github link to the backend: https://github.com/kkamalvanshi/nft-starter-backend
+This only includes frontend files. Here is the github link to the frontend: https://github.com/kkamalvanshi/nft-starter
 
 ## Basic Sample Hardhat Project
 
